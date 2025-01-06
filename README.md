@@ -1,4 +1,4 @@
-This repo has a repro for the Deno feature request about @types resolution.
+This repo has a repro for the Deno feature request about @types resolution (https://github.com/denoland/deno/issues/27569).
 
 ### Usage
 
