@@ -1,4 +1,4 @@
-import { map } from "lodash-es";
+import { map } from "lodash";
 import { useEffect } from "react";
 
 const foo: string = map; // this should throw a type error, but does not
