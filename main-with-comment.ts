@@ -1,4 +1,4 @@
-// @ts-types="npm:@types/lodash"
+// @ts-types="@types/lodash"
 import * as _ from "lodash";
 // @ts-types="@types/react"
 import { useEffect } from "react";
