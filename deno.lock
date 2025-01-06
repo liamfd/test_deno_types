@@ -42,11 +42,15 @@
   },
   "workspace": {
     "dependencies": [
-      "jsr:@std/assert@1",
-      "npm:@types/lodash@^4.17.12",
-      "npm:@types/react@^19.0.3",
-      "npm:lodash@^4.17.21",
-      "npm:react@19"
-    ]
+      "jsr:@std/assert@1"
+    ],
+    "packageJson": {
+      "dependencies": [
+        "npm:@types/lodash@^4.17.12",
+        "npm:@types/react@^19.0.3",
+        "npm:lodash@^4.17.21",
+        "npm:react@19"
+      ]
+    }
   }
 }
