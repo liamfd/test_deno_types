@@ -3,6 +3,7 @@
   "specifiers": {
     "jsr:@std/assert@1": "1.0.10",
     "jsr:@std/internal@^1.0.5": "1.0.5",
+    "npm:@types/lodash@*": "4.17.14",
     "npm:@types/lodash@^4.17.12": "4.17.14",
     "npm:@types/react@^19.0.3": "19.0.3",
     "npm:lodash@^4.17.21": "4.17.21",
